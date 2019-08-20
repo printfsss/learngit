@@ -1,4 +1,4 @@
-Creating a new brancj is quick AND simple
+Creating a new brancj is quick & simple
 nishuode 
 helloworld
 
