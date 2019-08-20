@@ -1,4 +1,4 @@
-#include <stetf.h>
+#include <wecan.h>
 
 int main(void){
 	printf("hello world!\r\n");
